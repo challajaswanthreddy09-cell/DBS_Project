@@ -1,0 +1,28 @@
+﻿{
+  "folders": [
+    {
+      "name": "📁 Project Root",
+      "path": "."
+    },
+    {
+      "name": "⚛️ Frontend (React + Vite)",
+      "path": "frontend"
+    },
+    {
+      "name": "🚀 Backend (Express API)",
+      "path": "backend"
+    },
+    {
+      "name": "🗄️ Database (MySQL Scripts)",
+      "path": "database"
+    },
+    {
+      "name": "📚 Documentation & Viva Q&A",
+      "path": "documentation"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  }
+}

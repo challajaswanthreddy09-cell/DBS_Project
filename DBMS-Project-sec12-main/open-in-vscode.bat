@@ -1,0 +1,3 @@
+@echo off
+echo Opening project in Visual Studio Code...
+code "DBMS-Library-Project.code-workspace"
